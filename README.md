@@ -1,5 +1,3 @@
-# Athyfr's README
-
 ## Introduction
 
 Hi!
