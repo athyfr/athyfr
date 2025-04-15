@@ -34,9 +34,12 @@ Mainly, the software I currently use is:
 ## Contact
 
 I go by [@athyfr](https://github.com/athyfr/) on **GitHub,** but elsewhere you can find me as _(non-exhaustively):_
-
 - **Email:** [athyfr@proton.me](mailto:athyfr@proton.me)
 - **Matrix:** [@athyfr:matrix.org](https://matrix.to/#/@athyfr:matrix.org)
 - **Jami:** athyfr
 - **Codeberg:** [@athyfr](https://codeberg.org/athyfr)
 - **GitLab:** [@athyfr](https://gitlab.com/athyfr)
+
+If you just want to comment on something in this README, share something, or quickly ask a question, feel free to open a [discussion](https://github.com/athyfr/athyfr/discussions/new/choose) on this repository!
+
+If you'd just prefer to contact me privately, you can do so by Email or Matrix, as listed above.
