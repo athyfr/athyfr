@@ -2,7 +2,7 @@ settings:
   disabled_events:
     - "comments"
   max_lines: 6
-  readme_file: "README.md"
+  readme_file: "./README.md"
   date:
     timezone: "America/Vancouver"
     text: "Last Updated: {DATE}"
