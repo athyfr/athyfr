@@ -12,10 +12,11 @@ I've got some big ambitions for the future (for after graduation), and am quite 
 
 My biggest projects I'm currently working on are:
 - Setting up an **ecommerce store** (Liberty Devices.ca). I hope to increase the accessibility of Linux devices.
+- Learning and creating in Godot, including development of a more flexible local multiplayer system.
 
 But besides that, I put most of my time to school. Information is quite valuable, I understand!
 
-If you want to support any of these projects, feel free to donate, :
+If you want to support any of these projects, feel free to donate:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D3172WMZ)
 
