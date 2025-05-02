@@ -32,6 +32,8 @@ Mainly, the software I currently use is:
 - **[Godot.](https://github.com/godotengine/godot?tab=readme-ov-file#godot-engine)** For game development. The alternatives (Unity and Unreal Engine) are proprietary, and I've found Godot quite easy to use.
 - **[LibreOffice.](https://github.com/LibreOffice/core?tab=readme-ov-file#libreoffice)** For whenever I need to make a document. Also, LibreOffice Draw is the best I know for making flow-charts and such.
 
+You can see a more thorough list [here.](https://github.com/stars/athyfr/lists/dependable)
+
 ## Contact
 
 I go by [@athyfr](https://github.com/athyfr/) on **GitHub,** but elsewhere you can find me as _(non-exhaustively):_
