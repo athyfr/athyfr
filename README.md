@@ -9,7 +9,7 @@ Excited by the FOSS world, and obsessed by computer-science, I hope to create al
 ## Current Projects
 
 My biggest projects I'm currently working on are:
-- Setting up an **ecommerce store** (Liberty Devices.ca). I hope to increase the accessibility of Linux devices.
+- Setting up an **ecommerce store** (Liberty Devices). I hope to increase the accessibility of Linux devices.
 - Learning and creating in Godot, including development of a more flexible local multiplayer system.
 
 But besides that, I put most of my time to school. Information is quite valuable, I understand!
