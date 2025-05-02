@@ -6,8 +6,6 @@ I'm currently in high-school (grade 10), working away towards my graduation.
 
 Excited by the FOSS world, and obsessed by computer-science, I hope to create all the best software I can!
 
-I've got some big ambitions for the future (for after graduation), and am quite strong in ideation, but you'll have to wait for that. (I could use a mentor, though.)
-
 ## Current Projects
 
 My biggest projects I'm currently working on are:
