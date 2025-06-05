@@ -12,6 +12,8 @@ My biggest projects I'm currently working on are:
 - Setting up an **ecommerce store** (Liberty Devices). I hope to increase the accessibility of Linux devices.
 - Learning and creating in Godot, including development of a more flexible local multiplayer system.
 
+If you want to see progress on these things, feel free to <a rel="me" href="https://social.tchncs.de/@athyfr">follow me on Mastodon!</a>
+
 But besides that, I put most of my time to school. Information is quite valuable, I understand!
 
 If you want to support any of these projects, feel free to donate:
@@ -39,6 +41,7 @@ You can see a more thorough list [here.](https://github.com/stars/athyfr/lists/d
 I go by [@athyfr](https://github.com/athyfr/) on **GitHub,** but elsewhere you can find me as _(non-exhaustively):_
 - **Email:** [athyfr@proton.me](mailto:athyfr@proton.me)
 - **Matrix:** [@athyfr:matrix.org](https://matrix.to/#/@athyfr:matrix.org)
+- **Mastodon:** <a rel="me" href="https://social.tchncs.de/@athyfr">@athyfr at social.tchncs.de</a>
 - **Jami:** athyfr
 - **Codeberg:** [@athyfr](https://codeberg.org/athyfr)
 - **GitLab:** [@athyfr](https://gitlab.com/athyfr)
