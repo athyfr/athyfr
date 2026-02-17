@@ -4,23 +4,23 @@ Hi!
 
 I'm currently in high-school (grade 10), working away towards my graduation.
 
-Excited by the FOSS world, and obsessed by computer-science, I hope to create all the best software I can!
+Currently, my activity here is limited, as I'm quite busy at high-school.
 
-## Current Projects
+## Projects
 
-My biggest projects I'm currently working on are:
-- Setting up an **ecommerce store** (Liberty Devices). I hope to increase the accessibility of Linux devices.
+My biggest projects I'll work on in the future are:
+- Setting up an **e commerce store**. I hope to increase the accessibility of Linux devices. (delayed until grad)
 - Learning and creating in Godot, including development of a more flexible local multiplayer system.
 
-If you want to see progress on these things, feel free to <a rel="me" href="https://social.tchncs.de/@athyfr">follow me on Mastodon!</a>
+If you want to see progress on these things, feel free to <a rel="me" href="https://social.tchncs.de/@athyfr">follow me on Mastodon!</a> (inactive)
 
 But besides that, I put most of my time to school. Information is quite valuable, I understand!
 
 If you want to support any of these projects, feel free to donate:
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D3172WMZ)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D3172WMZ) (inactive, not yet linked to bank account)
 
-Soon I'll have some wallpapers and such on sale on Ko-Fi, and you could purchase those to support me as well!
+Soon\* I'll have some wallpapers and such on sale on Ko-Fi, and you could purchase those to support me as well!
 
 ## What I Use
 
@@ -32,19 +32,17 @@ Mainly, the software I currently use is:
 - **[Freeplane.](https://github.com/freeplane/freeplane?tab=readme-ov-file#freeplane)** A wonderful program for note-taking and planning.
 - **[Inkscape.](https://gitlab.com/inkscape/inkscape#inkscape-draw-freely)** I use this whenever I need an icon or graphic, though I may eventually migrate to [GodSVG.](https://github.com/MewPurPur/GodSVG)
 - **[Godot.](https://github.com/godotengine/godot?tab=readme-ov-file#godot-engine)** For game development. The alternatives (Unity and Unreal Engine) are proprietary, and I've found Godot quite easy to use.
-- **[LibreOffice.](https://github.com/LibreOffice/core?tab=readme-ov-file#libreoffice)** For whenever I need to make a document. Also, LibreOffice Draw is the best I know for making flow-charts and such.
 
-You can see a more thorough list [here.](https://github.com/stars/athyfr/lists/dependable)
+You can see a thorougher list [here.](https://github.com/stars/athyfr/lists/dependable)
 
 ## Contact
 
 I go by [@athyfr](https://github.com/athyfr/) on **GitHub,** but elsewhere you can find me as _(non-exhaustively):_
 - **Email:** [athyfr@proton.me](mailto:athyfr@proton.me)
 - **Matrix:** [@athyfr:matrix.org](https://matrix.to/#/@athyfr:matrix.org)
-- **Mastodon:** <a rel="me" href="https://social.tchncs.de/@athyfr">@athyfr at social.tchncs.de</a>
-- **Jami:** athyfr
-- **Codeberg:** [@athyfr](https://codeberg.org/athyfr)
-- **GitLab:** [@athyfr](https://gitlab.com/athyfr)
+- **Mastodon:** <a rel="me" href="https://social.tchncs.de/@athyfr">@athyfr at social.tchncs.de</a> (inactive)
+- **Codeberg:** [@athyfr](https://codeberg.org/athyfr) (inactive)
+- **GitLab:** [@athyfr](https://gitlab.com/athyfr) (inactive)
 
 If you just want to comment on something in this README, share something, or quickly ask a question, feel free to open a [discussion](https://github.com/athyfr/athyfr/discussions/new/choose) on this repository!
 
