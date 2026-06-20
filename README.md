@@ -16,7 +16,7 @@ If you want to see progress on these things, feel free to <a rel="me" href="http
 
 But besides that, I put most of my time to school. Information is quite valuable, I understand!
 
-If you want to support any of these projects, feel free to donate:
+If you want to financially support any of these projects, feel free to visit my Ko-Fi page:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D3172WMZ)
 
