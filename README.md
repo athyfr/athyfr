@@ -18,7 +18,7 @@ But besides that, I put most of my time to school. Information is quite valuable
 
 If you want to support any of these projects, feel free to donate:
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D3172WMZ) (inactive, not yet linked to bank account)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D3172WMZ)
 
 Soon\* I'll have some wallpapers and such on sale on Ko-Fi, and you could purchase those to support me as well!
 
