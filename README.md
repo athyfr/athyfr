@@ -10,7 +10,6 @@ Currently, my activity here is limited, as I'm quite busy at high-school.
 
 My biggest projects I'll work on in the future are:
 - Setting up an **e commerce store**. I hope to increase the accessibility of Linux devices. (delayed until grad)
-- Learning and creating in Godot, including development of a more flexible local multiplayer system.
 
 If you want to see progress on these things, feel free to <a rel="me" href="https://social.tchncs.de/@athyfr">follow me on Mastodon!</a> (inactive)
 
