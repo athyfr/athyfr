@@ -6,34 +6,6 @@ I'm currently in high-school (grade 10), working away towards my graduation.
 
 Currently, my activity here is limited, as I'm quite busy at high-school.
 
-## Projects
-
-My biggest projects I'll work on in the future are:
-- Setting up an **e commerce store**. I hope to increase the accessibility of Linux devices. (delayed until grad)
-
-If you want to see progress on these things, feel free to <a rel="me" href="https://social.tchncs.de/@athyfr">follow me on Mastodon!</a> (inactive)
-
-But besides that, I put most of my time to school. Information is quite valuable, I understand!
-
-If you want to financially support any of these projects, feel free to visit my Ko-Fi page:
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D3172WMZ)
-
-Soon\* I'll have some wallpapers and such on sale on Ko-Fi, and you could purchase those to support me as well!
-
-## What I Use
-
-Mainly, the software I currently use is:
-- **[NixOS.](https://github.com/NixOS/nixpkgs)** My favourite Linux distribution. _I've seen the beauty of Nix!_
-- **[KDE Plasma 6.](https://invent.kde.org/plasma/plasma-desktop#plasma-desktop)** Nothing else seems quite as flexible, even if it's buggy at times.
-- **[Librewolf.](https://codeberg.org/librewolf/source#librewolf-source-repository)** Perhaps best _privacy-oriented_ browser packaged in Nix right now (Is [Waterfox](https://github.com/BrowserWorks/Waterfox?tab=readme-ov-file#waterfox) better?). though when it's stable I may move to [Ladybird.](https://github.com/LadybirdBrowser/ladybird?tab=readme-ov-file#ladybird)
-- **[Zed editor.](https://github.com/zed-industries/zed?tab=readme-ov-file#zed)** My code editor of choice. State-of-the-art, growing, and with most common features.
-- **[Freeplane.](https://github.com/freeplane/freeplane?tab=readme-ov-file#freeplane)** A wonderful program for note-taking and planning.
-- **[Inkscape.](https://gitlab.com/inkscape/inkscape#inkscape-draw-freely)** I use this whenever I need an icon or graphic, though I may eventually migrate to [GodSVG.](https://github.com/MewPurPur/GodSVG)
-- **[Godot.](https://github.com/godotengine/godot?tab=readme-ov-file#godot-engine)** For game development. The alternatives (Unity and Unreal Engine) are proprietary, and I've found Godot quite easy to use.
-
-You can see a thorougher list [here.](https://github.com/stars/athyfr/lists/dependable)
-
 ## Contact
 
 I go by [@athyfr](https://github.com/athyfr/) on **GitHub,** but elsewhere you can find me as _(non-exhaustively):_
