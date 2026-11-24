@@ -11,9 +11,7 @@ Currently, my activity here is limited, as I'm quite busy at high-school.
 I go by [@athyfr](https://github.com/athyfr/) on **GitHub,** but elsewhere you can find me as _(non-exhaustively):_
 - **Email:** [athyfr@proton.me](mailto:athyfr@proton.me) ([public key](./email-public.asc.key))
 - **Matrix:** [@athyfr:matrix.org](https://matrix.to/#/@athyfr:matrix.org)
-- **Mastodon:** <a rel="me" href="https://social.tchncs.de/@athyfr">@athyfr at social.tchncs.de</a> (inactive)
 - **Codeberg:** [@athyfr](https://codeberg.org/athyfr) (inactive)
-- **GitLab:** [@athyfr](https://gitlab.com/athyfr) (inactive)
 
 If you just want to comment on something in this README, share something, or quickly ask a question, feel free to open a [discussion](https://github.com/athyfr/athyfr/discussions/new/choose) on this repository!
 
