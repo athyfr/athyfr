@@ -9,7 +9,7 @@ Currently, my activity here is limited, as I'm quite busy at high-school.
 ## Contact
 
 I go by [@athyfr](https://github.com/athyfr/) on **GitHub,** but elsewhere you can find me as _(non-exhaustively):_
-- **Email:** [athyfr@proton.me](mailto:athyfr@proton.me)
+- **Email:** [athyfr@proton.me](mailto:athyfr@proton.me) ([public key](./email-public.asc.key))
 - **Matrix:** [@athyfr:matrix.org](https://matrix.to/#/@athyfr:matrix.org)
 - **Mastodon:** <a rel="me" href="https://social.tchncs.de/@athyfr">@athyfr at social.tchncs.de</a> (inactive)
 - **Codeberg:** [@athyfr](https://codeberg.org/athyfr) (inactive)
